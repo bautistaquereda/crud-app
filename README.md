@@ -6,14 +6,6 @@ Demonstrates REST API consumption, client-side state management, and dynamic DOM
 
 ---
 
-## Tech Stack
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Fetch API
-
----
-
 ## Features
 - Create, read, update, and delete posts
 - Client-side state handling
