@@ -1,4 +1,4 @@
-# 🌐 Vanilla JavaScript CRUD
+#Vanilla JavaScript CRUD
 
 A lightweight CRUD application built with **Vanilla JavaScript** and the [JSONPlaceHolderAPI](https://jsonplaceholder.typicode.com/).
 
